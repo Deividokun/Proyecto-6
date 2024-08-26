@@ -1,0 +1,5 @@
+Este ha sido mi proyecto 6. He tomado un poco de ayuda solamente en los controladores, que es lo que me ha resultado más complicado. He logrado dominar y entender Insomnia al 100%. También he conseguido conectar y entender cada carpeta, ruta, controlador y modelo hasta la base de datos a la perfección. Sinceramente, me queda un poco de mal sabor de boca con los controladores por la dificultad del código, ya que tuve que guiarme un poco.
+
+No he añadido la librería CORS, dado que hice un pequeño front-end para verificar si funcionaba mi especie de tienda de anime y manga, y está todo correcto.
+
+El puerto 3001 lo he añadido porque el 3000 ya estaba en uso y no me dejaba hacer la petición en ese puerto.
